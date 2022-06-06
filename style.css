@@ -80,5 +80,9 @@
   padding:20px 30px;
   margin-right:20px;
   font-size:12px;
+}
 
+.links a img{
+  width:25px;
+  margin-right:10px;
 }
