@@ -41,3 +41,18 @@
   color:#333;
   margin-bottom:10px;
 }
+
+.info ul{
+  display:flex;
+  align-items:center;
+  margin:10px 0 30px;
+}
+
+.info ul li {
+  list-style:none;
+  display:inline-flex;
+  align-items:center;
+  font-size:12px;
+  margin-right:20px;
+  margin-top:20px;
+}
