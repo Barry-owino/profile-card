@@ -22,3 +22,9 @@
   width:900px;
   border-radius:10px;
 }
+
+.profile-img{
+  width:150px;
+  border-radius:50%;
+  border:2px solid #001a2b;
+}
