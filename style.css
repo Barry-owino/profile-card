@@ -13,3 +13,12 @@
   align-items:center;
   justify-content:center;
 }
+
+.card{
+  background:#fff;
+  display:flex;
+  align-items:center;
+  padding:50px;
+  width:900px;
+  border-radius:10px;
+}
