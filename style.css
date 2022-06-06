@@ -21,6 +21,7 @@
   padding:50px;
   width:900px;
   border-radius:10px;
+  position:relative;
 }
 
 .profile-img{
@@ -90,4 +91,15 @@
 .links .msg-btn{
   background:#fff;
   color:#8749fd;
+}
+
+.share-icon{
+  width:40px;
+  position:absolute;
+  top:20px;
+  right:25px;
+  background:#f4eeff;
+  padding:10px;
+  border-radius:50%;
+  cursor:pointer;
 }
